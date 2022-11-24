@@ -3,7 +3,7 @@
     <title>Test for Lenard</title>
     <link href="https://Surferlul.github.io/Publii_test/feed.xml" rel="self" />
     <link href="https://Surferlul.github.io/Publii_test" />
-    <updated>2022-11-24T00:14:02+01:00</updated>
+    <updated>2022-11-24T01:04:34+01:00</updated>
     <author>
         <name>Lu Baumann</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://Surferlul.github.io/Publii_test/test-site.html"/>
         <id>https://Surferlul.github.io/Publii_test/test-site.html</id>
 
-        <updated>2022-11-24T00:14:02+01:00</updated>
+        <updated>2022-11-24T01:04:34+01:00</updated>
             <summary>
                 <![CDATA[
                     Test Audio File: Test Picture: Example Video:
@@ -26,12 +26,15 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__audio">Test Audio File:</figure>
-<figure class="post__audio"><audio loading="lazy" controls="controls" src="file:///home/lu/Documents/Android/Backup/Music/Igorrr/Miagre/Barbecue.mp3" data-mce-fragment="1"></audio></figure>
+<figure class="post__audio">
+<figure class="post__video"><video loading="lazy" width="271" height="133" style="width: 271px; height: 133px;" controls="controls">
+<source src="https://github.com/Surferlul/Publii_test/blob/data/Ash%20O'Connor%20-%20You%20_NCS%20Release_%20(%20160kbps%20).mp3?raw=true" /></video></figure>
+</figure>
 <p>Test Picture:</p>
-<figure class="post__image"><img loading="lazy"  src="file:///home/lu/Documents/Android/Backup/Pictures/Infinity/dankmemes-p96ewu.jpg" alt="" width="432" height="501" data-is-external-image="true"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://raw.githubusercontent.com/Surferlul/Publii_test/data/dankmemes-p96ewu.jpg" alt="" width="432" height="501" data-is-external-image="true"></figure>
 <p>Example Video:</p>
-<figure class="post__video"><video loading="lazy" width="756" height="378" style="width: 756px; height: 378px;" controls="controls" data-mce-fragment="1">
-<source src="file:///home/lu/Documents/Android/Backup/Movies/Infinity/okbuddyhetero-wio2co.mp4" type="video/mp4" /></video></figure>
+<figure class="post__video"><video loading="lazy" width="317" height="637" style="width: 317px; height: 637px;" controls="controls" data-mce-fragment="1">
+<source src="https://raw.githubusercontent.com/Surferlul/Publii_test/data/SuddenlyGay-wk7jbz.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>
